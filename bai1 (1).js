@@ -11,3 +11,5 @@ setTimeout(function()
 {
     console.log(myName, '-',age,'-',address); 
 }, 2000) // 2000 miliseconds 
+
+// fgfgf
